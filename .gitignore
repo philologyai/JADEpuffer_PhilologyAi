@@ -8,6 +8,7 @@ c2-local/incoming/
 c2-local/recovered/
 c2-local/dns-recovered/
 *.pid
+_site/
 
 # Freebuff preview logs
 .freebuff/preview-*.log
